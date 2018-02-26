@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: palegoldenrod;
+    background: rgb(170, 238, 204);
 }
 
 .container{
@@ -38,8 +38,8 @@ body{
     background: #FFF;
     border-radius: 50%;
     transition: .5s;
-    box-shadow: 0 0 0 2px #1b3646, 0 0 0 4px #fff;
-    transition: 1s;
+    box-shadow: 0 0 0 2px #38454d, 0 0 0 4px rgb(39, 18, 18);
+    transition: .3s;
     transform: scale(.3);
     z-index: -1;
 }
@@ -79,8 +79,8 @@ body{
 }
 
 .icon{
-    color: green;
-    transition: .5s;
+    color: rgb(9, 11, 145);
+    transition: .3s;
 }
 
 .icon:hover{
